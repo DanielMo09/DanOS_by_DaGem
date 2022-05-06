@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f65b5507-2ff9-46b0-aab8-ee3575e15ba5": {
+      "ProjectGuid": "f65b5507-2ff9-46b0-aab8-ee3575e15ba5",
+      "DisplayName": "DanOS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
